@@ -1,0 +1,7 @@
+D:\Kevin\QUT\Semester 1 - 2020\CAB301\Assignment\MovieManagement\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Kevin\QUT\Semester 1 - 2020\CAB301\Assignment\MovieManagement\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Kevin\QUT\Semester 1 - 2020\CAB301\Assignment\MovieManagement\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Kevin\QUT\Semester 1 - 2020\CAB301\Assignment\MovieManagement\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Kevin\QUT\Semester 1 - 2020\CAB301\Assignment\MovieManagement\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Kevin\QUT\Semester 1 - 2020\CAB301\Assignment\MovieManagement\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Kevin\QUT\Semester 1 - 2020\CAB301\Assignment\MovieManagement\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
